@@ -272,13 +272,3 @@ html ,body{
     margin-left: 90px;
 }
 
-@media screen and (max-width: 992px){
-    .mainbox{
-        transform: scale(0.8);
-    }
-    
-    .footlinks{
-        bottom: 85px;
-        font-size: 96%;
-    }  
-}
