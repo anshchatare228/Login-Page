@@ -275,8 +275,7 @@ html ,body{
 
 @media screen and (min-width: 992px){
     .mainbox{
-        height: 25rem;
-        width: 25rem;
+        transform: scale(0.8);
     }
     
     .footlinks{
