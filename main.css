@@ -23,7 +23,6 @@ body{
     height: 500px; /* reasonable default height */
     display: flex;  
     position: relative;
-    left: 40px;
     padding: 20px;
     padding-left: 10px;
     transform:scale(1.3);
